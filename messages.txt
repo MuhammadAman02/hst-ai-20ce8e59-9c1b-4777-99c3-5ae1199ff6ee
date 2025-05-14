@@ -4,3 +4,5 @@
 
 "generate me a simple chatbot"
 
+"generate me simple minimalistic fraud detection app"
+
