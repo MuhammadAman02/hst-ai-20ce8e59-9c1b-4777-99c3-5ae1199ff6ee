@@ -2,3 +2,5 @@
 
 "generate me a chatbot"
 
+"generate me a simple chatbot"
+
